@@ -1,0 +1,45 @@
+* {
+    background-color: #bbe2ed;
+}
+
+
+.pirate {
+    margin: 20px;
+}
+
+.newMessage {
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+
+.recentMessage {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+}
+
+.title {
+    margin-left: 20px;
+}
+
+* {
+    font-size: 25px;
+}
+
+.submit[type="submit"]{
+    border: none;
+    outline:none;
+    height:40px;
+    width: 150px;
+    background:#de5246;
+    color: #fff;
+    font-size:18px;
+    border-radius:20px;
+    }
+
+.submit[type="submit"]:hover {
+    cursor:pointer;
+    background:#ffc107;
+    color:#000;  
+}
