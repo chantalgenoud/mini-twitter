@@ -1,4 +1,24 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+Sollte gehen. 
+
+Project context
+The trainer guides you through the instruction paper attached below during the lesson. You can easily work ahead if you would like to.
+
+Learning methods
+Immitating Step by Step instructions
+
+Performance criteria
+There should be an input form to create new messages.
+Message list should read the messages from your database and each message should have a link to corresponding message details.
+The message details should display the details for the correct message and there should be a working delete-button available.
+Assessment methods
+Repository Review and Talks during project
+
+Deliverables
+- Link to github repo 
+- screenshots of your Mini Twitter pages (List and Details)
+- 
+- 
+- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
