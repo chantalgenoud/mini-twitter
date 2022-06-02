@@ -1,4 +1,13 @@
-Sollte gehen. 
+Kommentar:
+
+Ach ja, ich war 3 Tage in den Ferien, und hatte nur einen Tag Zeit, das Projekt umzusetzen. Mein Fokus war die Funktionalität. Danke und liebe Grüsse
+
+Update CG
+Chantal Genoud - 02/06/22, 16:14
+
+Ich hatte noch etwas Zeit am Design (zumindest in der Übersicht) zu arbeiten. Auf Simplononline ist ein neuer Screenshot. 
+
+
 
 Project context
 The trainer guides you through the instruction paper attached below during the lesson. You can easily work ahead if you would like to.
